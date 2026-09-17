@@ -8,6 +8,8 @@
 動画そのものを git に入れると、録り直すたびにリポジトリが本編1本分
 太っていくためです。
 
+調査メモ・台本・構図・ツールは **[lancard-aikawa/kyokoko](https://github.com/lancard-aikawa/kyokoko)**（MIT）にあります。
+
 ---
 
 ## 第001回 長崎市大黒町 —「海だった駅前」
