@@ -22,7 +22,7 @@
 2. 教会の跡に、お寺が建っている
 3. 海を失った町が、船を担ぎ続けている
 
-[本編をダウンロード](../../releases/tag/001-nagasaki-daikokumachi)　/　[プレビュー（アバン）](001-nagasaki-daikokumachi/preview.mp4)
+**[YouTube で見る](https://youtu.be/f7xuXU-avK0)**　/　[本編をダウンロード](../../releases/tag/001-nagasaki-daikokumachi)　/　[プレビュー（アバン）](001-nagasaki-daikokumachi/preview.mp4)
 
 ---
 
