@@ -36,7 +36,7 @@
 2. その橋が、流された
 3. 石を拾い集めて、また架けた
 
-[本編をダウンロード](../../releases/tag/002-nagasaki-meganebashi)　/　[プレビュー（アバン）](002-nagasaki-meganebashi/preview.mp4)
+**[YouTube で見る](https://youtu.be/4qyxsQsx8-s)**　/　[本編をダウンロード](../../releases/tag/002-nagasaki-meganebashi)　/　[プレビュー（アバン）](002-nagasaki-meganebashi/preview.mp4)
 
 ---
 
@@ -50,7 +50,7 @@
 2. 生コンのない時代の、136メートル
 3. 百年たって、無傷
 
-[本編をダウンロード](../../releases/tag/003-sasebo-hario)　/　[プレビュー（アバン）](003-sasebo-hario/preview.mp4)
+**[YouTube で見る](https://youtu.be/YBlXiOLEogM)**　/　[本編をダウンロード](../../releases/tag/003-sasebo-hario)　/　[プレビュー（アバン）](003-sasebo-hario/preview.mp4)
 
 ---
 
@@ -64,7 +64,7 @@
 2. 出口が塞がる土地
 3. 湾を閉じる
 
-[本編をダウンロード](../../releases/tag/004-isahaya-wan)　/　[プレビュー（アバン）](004-isahaya-wan/preview.mp4)
+**[YouTube で見る](https://youtu.be/Og2XCHAjWck)**　/　[本編をダウンロード](../../releases/tag/004-isahaya-wan)　/　[プレビュー（アバン）](004-isahaya-wan/preview.mp4)
 
 ---
 
@@ -78,7 +78,7 @@
 2. 名前を変えた人
 3. 掘る
 
-[本編をダウンロード](../../releases/tag/005-isahaya-ikiriki)　/　[プレビュー（アバン）](005-isahaya-ikiriki/preview.mp4)
+**[YouTube で見る](https://youtu.be/w46CJ8AqcOc)**　/　[本編をダウンロード](../../releases/tag/005-isahaya-ikiriki)　/　[プレビュー（アバン）](005-isahaya-ikiriki/preview.mp4)
 
 ---
 
