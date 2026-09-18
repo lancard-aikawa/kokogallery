@@ -3,7 +3,8 @@
 〒や町名を指定すると、その町の遺構・歴史建造物・地名の由来にまつわる
 「碑」の話を集め、読み上げシナリオを作り、VOICEVOX と地図で動画にする。
 
-本編は **[Releases](../../releases)** に置いています。
+本編は **YouTube** で公開しています（[再生リスト](https://www.youtube.com/playlist?list=PLdANPudLNm-c)）。
+第001〜005回の本編は以前 Releases に置いていましたが、YouTube に移しました。
 ここに入っているのはポスターと、アバン（掴み）のプレビューだけです。
 動画そのものを git に入れると、録り直すたびにリポジトリが本編1本分
 太っていくためです。
@@ -22,7 +23,7 @@
 2. 教会の跡に、お寺が建っている
 3. 海を失った町が、船を担ぎ続けている
 
-**[YouTube で見る](https://youtu.be/f7xuXU-avK0)**　/　[本編をダウンロード](../../releases/tag/001-nagasaki-daikokumachi)　/　[プレビュー（アバン）](001-nagasaki-daikokumachi/preview.mp4)
+**[YouTube で見る](https://youtu.be/f7xuXU-avK0)**　/　[プレビュー（アバン）](001-nagasaki-daikokumachi/preview.mp4)
 
 ---
 
@@ -36,7 +37,7 @@
 2. その橋が、流された
 3. 石を拾い集めて、また架けた
 
-**[YouTube で見る](https://youtu.be/4qyxsQsx8-s)**　/　[本編をダウンロード](../../releases/tag/002-nagasaki-meganebashi)　/　[プレビュー（アバン）](002-nagasaki-meganebashi/preview.mp4)
+**[YouTube で見る](https://youtu.be/4qyxsQsx8-s)**　/　[プレビュー（アバン）](002-nagasaki-meganebashi/preview.mp4)
 
 ---
 
@@ -50,7 +51,7 @@
 2. 生コンのない時代の、136メートル
 3. 百年たって、無傷
 
-**[YouTube で見る](https://youtu.be/YBlXiOLEogM)**　/　[本編をダウンロード](../../releases/tag/003-sasebo-hario)　/　[プレビュー（アバン）](003-sasebo-hario/preview.mp4)
+**[YouTube で見る](https://youtu.be/YBlXiOLEogM)**　/　[プレビュー（アバン）](003-sasebo-hario/preview.mp4)
 
 ---
 
@@ -64,7 +65,7 @@
 2. 出口が塞がる土地
 3. 湾を閉じる
 
-**[YouTube で見る](https://youtu.be/Og2XCHAjWck)**　/　[本編をダウンロード](../../releases/tag/004-isahaya-wan)　/　[プレビュー（アバン）](004-isahaya-wan/preview.mp4)
+**[YouTube で見る](https://youtu.be/Og2XCHAjWck)**　/　[プレビュー（アバン）](004-isahaya-wan/preview.mp4)
 
 ---
 
@@ -78,7 +79,21 @@
 2. 名前を変えた人
 3. 掘る
 
-**[YouTube で見る](https://youtu.be/w46CJ8AqcOc)**　/　[本編をダウンロード](../../releases/tag/005-isahaya-ikiriki)　/　[プレビュー（アバン）](005-isahaya-ikiriki/preview.mp4)
+**[YouTube で見る](https://youtu.be/w46CJ8AqcOc)**　/　[プレビュー（アバン）](005-isahaya-ikiriki/preview.mp4)
+
+---
+
+## 第006回 横浜市神奈川区神奈川一丁目（神奈川台場跡） —「陸になった台場」
+
+[![第006回 横浜市神奈川区神奈川一丁目（神奈川台場跡） —「陸になった台場」](006-kanagawa-daiba/poster.jpg)](006-kanagawa-daiba/preview.mp4)
+
+9分47秒
+
+1. 海に築く
+2. 撃たない大砲
+3. 陸に呑まれる
+
+**[YouTube で見る](https://youtu.be/e7nrckVpE8s)**　/　[プレビュー（アバン）](006-kanagawa-daiba/preview.mp4)
 
 ---
 
